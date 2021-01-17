@@ -2,7 +2,7 @@ title: Cuanisme: Info saham & Investasi  #ame of the site
 author: Mimin cuan # name of site's author
 email: cuanisme.info@gmail.com # email of site's author
 url: https://cuanisme.com # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog"
+baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
